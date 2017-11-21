@@ -10,4 +10,4 @@ Ensure Java is installed on your system: https://java.com/en/download/
 
 Download the latest release: https://github.com/metagomics/percolator-peptide-list-dumper/releases
 
-Run with: java -jar peptideDumper.jar -p <peptide q-value cutoff> -s <psm q-value cutoff> -f <percolator output XML file>
+Run with: ``java -jar peptideDumper.jar -p <peptide q-value cutoff> -s <psm q-value cutoff> -f <percolator output XML file>``
